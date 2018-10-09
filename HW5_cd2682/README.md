@@ -13,7 +13,7 @@ ANCOVA	| 4, gender, proportion of intimate partners,length of time knowning thei
   
   Include the main plots of the paper (the plots that summarized the result)
   
-![main plot](Plots.png)
+![main plot](https://github.com/Chang-Du/PUI2018_xh1163/blob/master/HW5_xh1163/Plots.png)
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
