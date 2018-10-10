@@ -6,7 +6,7 @@ Create a pull request to provide some suggestions on my classmate Rufei Sheng(rs
 
 https://github.com/Rufei-Sheng/PUI2018_rs6431/blob/master/HW4_rs6431/README2.md
 
-# Assignment 2: Literature choices of statistical tests
+## Assignment 2: Group Work: Literature choices of statistical tests
 
 Worked with Mingyi He(mh5172) and Xiaoning He(xh1163). I finished the Correlation part.
 
@@ -37,10 +37,12 @@ The main plots of the paper (the plots that summarized the result)
 ![main plot](https://github.com/Mingyi1995/PUI2018_mh5172/blob/master/HW5_mh5172/logistic.png)
 
 ## Assignment 3: Reproduce the analysis of the Hard to Employ program in NY
-By Hypothesis testing, I figured out whether the program has influence on participants' employment and the percentage of being convicted of a felony in the Recidivism (Years 1-3) after release. Including Z-test and Chi-Sqaure test.
+By Hypothesis testing, I figured out whether the program has influence on participants' employment and the percentage of being convicted of a felony in the Recidivism (Years 1-3) after release. The method including Z-test and Chi-Sqaure test.
 
-
+https://github.com/Chang-Du/PUI2018_cd2682/blob/master/HW5_cd2682/HW5_Assignment3_cd2682.ipynb
 
 ## Assignment 4: Tests of correlation using the scipy package with citibike data.
 I choose 201501 and 201506 two different seasons dataset of citi-bike riding.
 I use three kinds of tests (Pearson’s test, Spearman’s test, K-S test) to figure out whether there are statistical differences between the trip duration of daytime riding and nighttime riding. For the KS test, there are two parts of test: 1) with the entire dataset 2) with the 200 times smaller sub-dataset. For Pearson’s test and Spearman’s test, set two same size of sub-dataset of the trip duration of daytime riding and nighttime riding is required.
+
+https://github.com/Chang-Du/PUI2018_cd2682/blob/master/HW5_cd2682/HW5_Assignment4_cd2682.ipynb
