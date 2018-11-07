@@ -11,5 +11,8 @@
 https://github.com/Chang-Du/PUI2018_cd2682/blob/master/HW8_cd2682/HW8_Assignment1_cd2682.ipynb
 
 ## Assignment 2 - Group Work - Finish HW4 Citibike miniproject
+Analysis Notebook:
+https://github.com/Chang-Du/PUI2018_cd2682/blob/master/HW8_cd2682/HW8_Assignment2_Citibikes_Usertype_cd2682.ipynb
 
+Report on Authorea:
 https://www.authorea.com/users/249320/articles/335330-hypothesis-report-for-citibike-data
