@@ -12,7 +12,7 @@
     - replace 'older' with 'senior' and identify the standard of dividing the users
 
 - Esthetic:
-  - The colors: Great
+  - The colors: Good
   - Appropriate to represent the quantities
 
 - Honesty: The plot honestly reproducing the data.
