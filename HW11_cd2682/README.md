@@ -7,7 +7,7 @@
 - Assignment2 is finished by myself
 
 ## Assignment 1: MTA Subway time series practice
--
+- https://github.com/Chang-Du/PUI2018_cd2682/blob/master/HW11_cd2682/HW11_Assignment1_subway_timeseries_cd2682.ipynb
 
 ## Assignment 2: Improve my plot from HW8 based on the peer review from tm1722 and ks5063
 ![](https://github.com/Chang-Du/PUI2018_cd2682/blob/master/HW11_cd2682/HW11_Improved%20plot_cd2682.png)
