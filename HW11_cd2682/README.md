@@ -1,6 +1,10 @@
 # PUI2018_HW11_cd2682
 ## Author: Chang Du
+## I used my 72-hour extension for this Homework
 ### Contribution:
+- The Task 3 of Assignment1 is not finished by myself, I learned from Xiaoning He and Tiancheng Yin.
+- The other part of Assignment1 is finished by  myself
+- Assignment2 is finished by myself
 
 ## Assignment 1: MTA Subway time series practice
 -
